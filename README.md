@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Front end developer  🇧🇷<br>HTML | CSS | JavaScript | TypeScript | Angular<br>Java | Python<br>
 
 
