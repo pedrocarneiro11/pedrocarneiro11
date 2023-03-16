@@ -26,7 +26,7 @@ Status
 Main Repositories
 Here are some of my main repositories:
 
-[![📫](https://github.com/pedrocarneiro11/Site-Pessoal-Angular)]My Portfolio - A responsive portfolio website built using Angular.
+[[📫](https://github.com/pedrocarneiro11/Site-Pessoal-Angular)]My Portfolio - A responsive portfolio website built using Angular.
 Cloud Parking - An API made in Java to store parking lot informations .
 Angular blog - A blog project created based on dribble layout.
 PS Store Angular - My personal version of the Playstation Store, made with Angular.
