@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer  🇧🇷<br>HTML | CSS | JavaScript | TypeScript | Angular<br>Java | Python<br> | C#
+Full stack developer  🇧🇷<br>HTML | CSS | JavaScript | TypeScript | Angular<br>Java | Python | C#<br>
 
 
 ## 🌐 Socials:
